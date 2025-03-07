@@ -12,4 +12,6 @@ export default defineConfig({
   output: "server",
   adapter: netlify(),
   //adapter: vercel(),
+  site: 'https://andreas0r0s.github.io',
+  //base: '', # Do not set if: a) page is served from the root folder; or b) repo is located: https://github.com/<USERNAME>/<USERNAME>.github.io
 });

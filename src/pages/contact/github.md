@@ -1,5 +1,5 @@
 ---
 title: Github
 icon: carbon:logo-github
-url: httpa://github.com
+url: https://github.com/andreas0r0s
 ---

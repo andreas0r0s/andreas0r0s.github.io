@@ -1,9 +1,9 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor of Computer science
+location: Instituto de Educação Superior de Brasília, Brasília (IESB)
+url: https://www.iesb.br/home/
+institute: Instituto de Educação Superior de Brasília
+date: 2023-2026
 tags:
   [
     "Criminal Justice",

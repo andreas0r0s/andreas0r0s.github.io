@@ -1,10 +1,10 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Estagiário
+date: 2022 - 2024
+url: https://www.cruzeiro.df.gov.br/
+location: Brasília, Distrito Federal, Brasil
+org: Administração Regional do Cruzeiro (RA-CRUZ)
+tags: ["Administração pública", "estágio", "suporte", "infraestrutura", "helpdesk"]
 ---
 
 - Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
