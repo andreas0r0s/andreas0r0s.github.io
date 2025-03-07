@@ -9,7 +9,7 @@ import netlify from '@astrojs/netlify';
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
-  output: "server",
+  output: "static",
   adapter: netlify(),
   //adapter: vercel(),
   site: 'https://andreas0r0s.github.io',
